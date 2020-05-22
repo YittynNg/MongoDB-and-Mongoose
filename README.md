@@ -1,12 +1,12 @@
 # MongoDB-and-Mongoose
 MongoDB and Mongoose tutorial from FreeCodeCamp
 
-Learn how to create cluster in MongoDBAtlas, conncet to the cluster, and execute CRUD
+* Learn how to create cluster in MongoDBAtlas, conncet to the cluster, and execute CRUD
 
-Learn how to create .env file
+* Learn how to create .env file
 
 ## Installation
-Need to install ```express```, ```body-parser```,```mongodb```,```mangoose```,```dotenv```
+Need to install **express**, **body-parser**, **mongodb**, **mangoose**, **dotenv**
 
 Use npm install dependencies
 ```bash
